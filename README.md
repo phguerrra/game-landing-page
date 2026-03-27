@@ -6,6 +6,10 @@ Este projeto é uma landing page do jogo Forza Horizon 4 desenvolvida com HTML e
 
 O site apresenta informações sobre o jogo, galeria de imagens com lightbox, requisitos do sistema e opção de compra.
 
+## 🔗 Acesse o site
+
+👉 https://phguerrra.github.io/game-landing-page/
+
 ## 🚀 Tecnologias utilizadas
 
 * HTML5
